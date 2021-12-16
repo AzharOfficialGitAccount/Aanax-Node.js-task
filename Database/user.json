@@ -1,0 +1,18 @@
+
+[{
+    "name": "Azhar",
+    "email": "azharofficial599@gmail.com",
+    "passwordHash": "$2a$10$Ngncnb0NwB1H.l0Z8NOi9ueTC2n83Y6SCsUPk567sB3/um5bSEmda",
+    "phone": "8887930942",
+    "city": "Noida",
+    "country": "India",
+    "_id": "61bb490dc14777f2d0530b21",
+    "__v": 0,
+    "id": "61bb490dc14777f2d0530b21"
+},
+
+
+{
+    "user": "azharofficial599@gmail.com",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MWJiNDNlOTU0YmI0OWFmY2FkNzUyZmYiLCJpYXQiOjE2Mzk2NjM0NDUsImV4cCI6MTYzOTc0OTg0NX0.-LW8OMJRlb-fW9fRmu9DmyiR_QJOQJ2nxIqBWZYxR-8"
+}]

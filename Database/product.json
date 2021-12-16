@@ -1,0 +1,23 @@
+[{
+    "title": "IPhone-12Pro",
+    "description": "some-description",
+    "images": [
+        "http://localhost:3000/public/uploads/iphone.jpeg-1639664098761.jpeg"
+    ],
+    "purchasePrice": 1200000,
+    "sellingPrice": 123432,
+    "dateCreated": "2021-12-16T14:14:58.783Z",
+    "id": "61bb49e2ad45dd91019ab1d2"
+},
+
+{
+    "title": "IPhone-13Pro",
+    "description": "some-description",
+    "images": [
+        "http://localhost:3000/public/uploads/iphone.jpeg-1639664098761.jpeg"
+    ],
+    "purchasePrice": 1200000,
+    "sellingPrice": 123432,
+    "dateCreated": "2021-12-16T14:14:58.783Z",
+    "id": "61bb49e2ad45dd91019ab1d2"
+}]
